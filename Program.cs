@@ -9,8 +9,7 @@ namespace DataStructures
             try
             {
             
-             System.Console.WriteLine(new Factorial().FactLoop(5));
-              
+                //Hello
             
             }
             catch(Exception ex)
